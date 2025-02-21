@@ -115,29 +115,29 @@ Before running this project, ensure you have the following installed:
 
 ## Screenshots
 
-![Login page in web view](./vite-project/public/images/Screenshots/login-web-view.png)
+![Login page in web view](./public/images/Screenshots/login-web-view.png)
 
-![Signup Page Web view](./vite-project/public/images/Screenshots/signup-web-view.png)
+![Signup Page Web view](./public/images/Screenshots/signup-web-view.png)
 
-![Home Page Web View](./vite-project/public/images/Screenshots/home-web-view.png)
+![Home Page Web View](./public/images/Screenshots/home-web-view.png)
 
-![Home Page Web View (2)](./vite-project/public/images/Screenshots/home-2-web-view.png)
+![Home Page Web View (2)](./public/images/Screenshots/home-2-web-view.png)
 
-![Login page in mobile view](./vite-project/public/images/Screenshots/login-mobile-view.png)
+![Login page in mobile view](./public/images/Screenshots/login-mobile-view.png)
 
-![Channel page Web View](./vite-project/public/images/Screenshots/channel-web-view.png)
+![Channel page Web View](./public/images/Screenshots/channel-web-view.png)
 
-![Channel page Web View (2)](./vite-project/public/images/Screenshots/channel-2-web-view.png)
+![Channel page Web View (2)](./public/images/Screenshots/channel-2-web-view.png)
 
-![Watch page Web View](./vite-project/public/images/Screenshots/watchpage-web-view.png)
+![Watch page Web View](./public/images/Screenshots/watchpage-web-view.png)
 
-![Signup Page Mobile view](./vite-project/public/images/Screenshots/signup-mobile-view.png)
+![Signup Page Mobile view](./public/images/Screenshots/signup-mobile-view.png)
 
-![Home Page Mobile View](./vite-project/public/images/Screenshots/home-mobile-view.png)
+![Home Page Mobile View](./public/images/Screenshots/home-mobile-view.png)
 
-![Profile page Mobile View](./vite-project/public/images/Screenshots/profile-mobile-view.png)
+![Profile page Mobile View](./public/images/Screenshots/profile-mobile-view.png)
 
-![Watch page Mobile View](./vite-project/public/images/Screenshots/watchpage-mobile-view.png)
+![Watch page Mobile View](./public/images/Screenshots/watchpage-mobile-view.png)
 
 ## License
 
